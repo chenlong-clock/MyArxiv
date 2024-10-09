@@ -4,7 +4,7 @@ let titles_method = ["Pre-train", "Pretrain", "Prompt", "Distill", "Contrastive"
 let titles_theme = ["Continual", "Incremental", "Lifelong", "Timeline", "Summarization", "Thought", "Agent", "Information Extraction", "Event Detection", "Event Extraction", "Relation", "Named Entity"];
 let titles =  titles_model + titles_method + titles_type + titles_theme;
 let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio", "Jun Zhao", "Xipeng Qiu", "Zhiyuan Liu", "Pieter Abbeel", "Danqi Chen", "Heng Ji", "Yao Fu", 
-    "Yang Feng", "Aixin Sun", "Deyi Xiong", "Ting Liu", "Qi Zhang", "Tao Yu", "Jacob Devlin", "Oriol Vinyals", "Jason Wei", "Junxian He", "Lingpeng Kong", "Pengfei Liu", "Tianbao Xie", "Jiayu Song", "Diyi Yang", "Tengyu Ma", "Percy Liang", "Eric Xing"];
+    "Yang Feng", "Aixin Sun", "Deyi Xiong", "Ting Liu", "Qi Zhang", "Tao Yu", "Jacob Devlin", "Oriol Vinyals", "Jason Wei", "Junxian He", "Lingpeng Kong", "Pengfei Liu", "Tianbao Xie", "Jiayu Song", "Diyi Yang", "Tengyu Ma", "Percy Liang", "Eric Xing", "Sewon Min"];
 
 let conferences = [
     // AI
