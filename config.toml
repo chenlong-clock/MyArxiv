@@ -8,6 +8,11 @@ category = "cs.CL"
 title = "Computation and Language"
 
 [[sources]]
+limit = 1500
+category = "cs.CV"
+title = "Computer Vision"
+
+[[sources]]
 limit = 150
 category = "cs.IR"
 title = "Information Retrieval"
